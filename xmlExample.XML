@@ -1,0 +1,108 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<events>
+	<event eventID = "0" entries = "8">
+		<speach name = "K" exp = "think" type = "speach">这是什么地方？</speach>
+		<speach name = "K" exp = "think" type = "speach">为什么我会出现在这里？</speach>
+		<speach name = "K" exp = "think" type = "speach">我睡着了吗，或者……</speach>
+		<speach name = "K" exp = "surprise" type = "speach">天呐，我什么都不记得了。</speach>
+		<speach name = "K" exp = "think" type = "speach">有人吗？</speach>
+    <speach name = "K" exp = "angry" type = "speach">或者有办法可以出去吗？</speach>
+		<speach name = "K" exp = "think" type = "speach">或许我应该四处调查一番，看看能够发现什么。</speach>
+    <speach name = "" exp = "" type = "tutorial">教学1：将鼠标移动至屏幕两侧以显示箭头。长按箭头向相应的方向移动。</speach>
+	</event>
+  	<event eventID = "1" entries = "8">
+		<speach name = "K" exp = "surprise" type = "speach">口袋电脑？……</speach>
+		<speach name = "K" exp = "happy" type = "speach">嗯，找到了。</speach>
+		<speach name = "K" exp = "angry" type = "speach">不知从什么时候起，和同时代人一样，变得对于这个物件须臾不离。</speach>
+		<speach name = "K" exp = "think" type = "speach">似乎已经成为身体的衍伸与常识一般的存在。</speach>
+		<speach name = "K" exp = "angry" type = "speach">即使什么都记不得的现在，恢复意识的第一反应还是寻找口袋电脑。</speach>
+    <speach name = "K" exp = "happy" type = "speach">在这个场所口袋电脑还能够使用吗？</speach>
+    <speach name = "K" exp = "think" type = "speach">嗯，没有问题，但是看上去有些古怪。</speach>
+    <speach name = "" exp = "" type = "tutorial">教学2.1：点击物品获得情感信息。</speach>
+   </event>
+  <event eventID = "2" entries = "1">
+		<speach name = "K" exp = "surprise" type = "tutorial">教学2.2：再次点击退出情感信息系统。</speach>
+  </event>
+  <event eventID = "3" entries = "2">
+     <speach name = "K" exp = "surprise" type = "speach">对我来说，更为有趣的是这些信息。它们来自哪里，又是如何为我所接收到的？看上去与语音推特像极了。它们甚至在不同时间推送，并且似乎都与祭坛有关。</speach>
+     <speach name = "K" exp = "surprise" type = "speach">最为神奇的是，我感到它们并不真的象推特。我的意思是，这并不是那些公共领域发送的信息，而更像是只是某个升起的念头而已。让我们去看看那个沉潜设备吧。</speach>
+  </event>
+  <event eventID = "4" entries = "1">
+     <speach name = "K" exp = "surprise" type = "speach">我的声音？但是我对此并没有任何记忆。难道我曾在没有意识的时候来过这里，甚至从未离开？</speach>
+  </event>
+  <event eventID = "5" entries = "1">
+     <speach name = "K" exp = "surprise" type = "speach">啊，那边有什么东西出现了。</speach>
+  </event>
+  <event eventID = "6" entries = "8">
+     <speach name = "诺诺" exp = "surprise" type = "speach">所以我并没有失业？</speach>
+     <speach name = "K" exp = "angry" type = "speach">这里到底是什么地方，你为什么会在这里？</speach>
+     <speach name = "诺诺" exp = "angry"  type = "speach">连自己为什么在这里都不清楚的人却总是喜欢质问别人。</speach>
+     <speach name = "诺诺" exp = "think"  type = "speach">作为负责引领游览的人工智能，我在这里不是再自然不过的事了吗？</speach>
+     <speach name = "K" exp = "angry" type = "speach">等等，我想你那里有属于我的东西。</speach>
+     <speach name = "诺诺" exp = "happy" type = "speach">或许是这样的，但是我无法提取。</speach>
+     <speach name = "诺诺" exp = "happy" type = "speach">沉潜设备上泛着蓝光，这表示信息还没有被聆听。</speach>
+     <speach  name = "诺诺" exp = "happy" type = "tutorial">教学3：按下标志切换状态。</speach>
+  </event>
+  <event eventID = "7" entries = "2">
+     <speach name = "诺诺" exp = "angry" type = "speach">不！到底发生了什么。</speach>
+     <speach name = "K" exp = "angry" type = "speach">那是什么！</speach>
+  </event>
+    <event eventID = "8" entries = "3">
+     <speach name = "K" exp = "angry" type = "speach">可恶！我不能只是这样逃避。</speach>
+     <speach name = "K" exp = "think" type = "speach">我一定要想办法做点什么才是。</speach>
+     <speach name = "K" exp = "think" type = "speach">对于这场战斗，总感觉有一种莫名的熟悉感。</speach>
+  </event>
+	<event eventID = "9" entries = "50">
+		<speach name = "K" exp = "surprise">喂！你是……</speach>
+		<speach name = "诺诺" exp = "angry">什么？你已经能够看到我了吗？</speach>
+    <speach name = "诺诺" exp = "think">这可真是麻烦。</speach>
+    <speach name = "诺诺" exp = "think">原来你已经触发了开关。</speach>
+    <speach name = "诺诺" exp = "happy">花了这么久才找到，还真是笨蛋。</speach>
+    <speach name = "K" exp = "angry">我听不懂你说的话。你到底是什么人？为什么会在这儿？</speach>
+    <speach name = "诺诺" exp = "angry">连自己为什么在这里都不清楚的人却总是喜欢质问别人。</speach>
+    <speach name = "诺诺" exp = "think">作为负责引领游览的人工智能，我在这里不是再自然不过的事了吗？</speach>
+    <speach name = "K" exp = "angry">喜欢捉迷藏，外加口舌锐利的人工智能？</speach>
+    <speach name = "K" exp = "happy">既然这样，你不妨为我介绍一下我所处的位置。为什么我能够读到情感信息？还有，那些试验是怎么回事？</speach>
+    <speach name = "诺诺" exp = "angry">你的问题还真是多。好吧，让我来尽我的职责。只是，我的数据还十分有限。敏感问题将会被直接过滤。</speach>
+    <speach name = "K" exp = "angry">……</speach>
+    <speach name = "诺诺" exp = "happy">如果你已经仔细读过那些信息，就应该知道我们身处彩虹之城……</speach>
+    <speach name = "K" exp = "surprise">彩虹之城？</speach>
+    <speach name = "诺诺" exp = "angry">我当然知道到达彩虹之城很令人感到讶异，这也是我接下来要进行说明……</speach>
+    <speach name = "K" exp = "think">不，我想问的是，彩虹之城是什么？</speach>
+    <speach name = "诺诺" exp = "surprise">竟然有人不知道彩虹之城？！……</speach>
+    <speach name = "K" exp = "angry">准确地说，恐怕是不记得了。</speach>
+    <speach name = "诺诺" exp = "think">不记得？……</speach>
+    <speach name = "K" exp = "think">是的。刚刚恢复意识的时候，我以为自己只是不记得与这里相关的事情，但是慢慢发现，我缺乏任何类似记忆的知识。</speach>
+    <speach name = "K" exp = "angry">也就是说，我所有的了解，只从刚刚开始。</speach>
+    <speach name = "诺诺" exp = "happy">阿尔法脉冲的力量还真是强大。</speach>
+    <speach name = "K" exp = "angry">你在嘟囔什么？</speach>
+    <speach name = "诺诺" exp = "angry">哦，没有什么。我对你的记忆损伤程度没有任何兴趣，因此从最基本之处讲起。仔细听，OK？</speach>
+    <speach name = "诺诺" exp = "think">彩虹之城是借助增强现实技术构建的城市大型架空景观。对于绝大多数人来说，这已是全部的事实。但是对于部分研究人员与政府来说却并非如此。</speach>
+    <speach name = "K" exp = "surprise">也就是说，这里的一切都是不真实的？</speach>
+    <speach name = "诺诺" exp = "happy">并不是这样。实体本身还是存在，只是并不如我们看到的这般恢弘。有些现实建造困难的部分则由虚拟代替。</speach>
+    <speach name = "诺诺" exp = "think">研究团体IIRO（Independent Intelligant Research Organization）从很早就已致力于脑科学的研究，不过当时政府部门对于这项费时费力而由难以看到即时成效的研究并不关心。</speach>
+    <speach name = "K" exp = "think">IIRO。这个名字似乎有些模糊的印象。</speach>
+    <speach name = "诺诺" exp = "happy">当然。我是说，总会留下些有印象的名词。</speach>
+    <speach name = "诺诺" exp = "think">随后IIRO将脑科学与增强现实技术结合起来，创建了小型展馆，引起了政府部门的注意，而其结果就是将彩虹之城彻底改造为情感增强现实展馆，并不对外开放，而是用以进行试验。</speach>
+    <speach name = "诺诺" exp = "happy">不过，试验的具体内容就不能透漏了。事实上，我的数据之中也并没有存储相关内容。</speach>
+    <speach name = "K" exp = "angry">太好了。我认为我的了解并没有任何增加。所以说，我能够读取情感信息……</speach>
+    <speach name = "诺诺" exp = "happy">是这项技术之一。不过一般来说并不对公众开放。因此，你可能得到了内部人员的账号。虽然原因不得而知。</speach>
+    <speach name = "K" exp = "think">你是从那个人——我的意思是我，但是我不记得——的信息之中诞生的。你了解与那个人有关的事情吗？</speach>
+    <speach name = "诺诺" exp = "happy">哦，K。我当然了解。</speach>
+    <speach name = "K" exp = "happy">那太好了。我想知道与他有关的事情。</speach>
+    <speach name = "诺诺" exp = "happy">但是我提取不出来。</speach>
+    <speach name = "K" exp = "surprise">……</speach>
+    <speach name = "诺诺" exp = "angry">你连属于你自己的记忆都无法提取，我又怎么做得到？</speach>
+    <speach name = "K" exp = "angry" type = "speach">……</speach>
+    <speach name = "K" exp = "angry" type = "speach">你能给我解释清楚这究竟是怎么一回事吗？你的意思是你发生了故障还是怎样？</speach>
+    <speach name = "诺诺" exp = "think" type = "speach">来看看这些吧。</speach>
+    <speach name = "" exp = "" type = "tutorial">教学3：使用切換按鈕，可以在調查模式與情感模式之間進行切換。</speach>
+    <speach name = "诺诺" exp = "happy">非常美，不是嗎？在你們不打擾我的時候，我只靠欣賞它們就可以渡過一天。雖然我看不到那些訴說的人們，可是只憑這些精靈我就能夠知道他們的一切。每個人都有自己的故事，每個故事也都有自己的情感。</speach>
+	</event>
+  
+
+	
+	
+   
+</events>
+    
